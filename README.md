@@ -1,7 +1,7 @@
 **Pretrained tabular foundation models with prior‑data fitted networks for causal nuisance estimation**
 * Pipeline for generating simulated datasets, implementing nuisance learners, and building causal estimators.
 * See manuscript and supplement for further detail
-* This repo focuses on the pipeline for the fully synthetic simulation (1); the plasmode (semi-synthetic) simulation (2) has its own repository: (ACIC-plasmode-pipeline)
+* This repo focuses on the pipeline for the fully synthetic simulation (1); the plasmode (semi-synthetic) simulation (2) has its own repository (**ACIC-plasmode-pipeline**).
 
 # Simulation (1) — Naimi/Kang–Schafer fully synthetic simulation
 * Self-contained code for the manuscript's fully synthetic simulation (1), using DGPs from Naimi, Mishler & Kennedy (2023), adapted from Kang & Schafer (2007)
